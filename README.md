@@ -6,7 +6,7 @@ This repository documents my notes, study progress, and resources as I prepare f
 
 - Certification: CompTIA Network+
 - Exam version: N10-009
-- Study completion goal: June 1st
+- Study completion goal: June 14th
 - Certification goal: July 1st
 
 ## Purpose
